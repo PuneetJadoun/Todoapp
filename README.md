@@ -1,4 +1,4 @@
-# Todo App
+# Todo-App
 
 A simple todo list application built using **HTML**, **CSS**, and **JavaScript** to practice DOM manipulation and local storage concepts.
 
